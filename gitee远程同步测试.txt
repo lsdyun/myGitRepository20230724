@@ -13,3 +13,6 @@ public String void main(){
 
 测试四
 public
+
+测试五
+public class C{}
