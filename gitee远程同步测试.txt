@@ -4,3 +4,12 @@
 public Class A{
 
 }
+
+测试三
+public String void main(){
+	test
+
+}
+
+测试四
+public
